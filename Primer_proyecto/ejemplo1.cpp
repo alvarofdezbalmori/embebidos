@@ -11,8 +11,7 @@ int suma(int d1, int d2){
 
 	return d1+d2;
 }
-
-
+/*
 int main(int narg, char *arg[]){
 
 	int d1=50;
@@ -26,3 +25,4 @@ int main(int narg, char *arg[]){
 
 	std::cout << "suma"<<d1<<"y"<<d2<<"="<<suma(d1,d2)<<std::endl;
 }
+*/
